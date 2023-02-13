@@ -8,3 +8,4 @@ print(cad[0])
 print(cad[2:5])
 print(cad*2)
 print(cad + ", añado") # Concatenamos cadenas
+print(cad , ", añado II") # También nos concatena.

@@ -1,7 +1,7 @@
 #!/usr/bin/python3.11
 print("Indique su nombre: ")
-nom=input()
+nom = input()
 print(nom)
-cog=input("Indique su primer apellido: ")
+cog = input("Indique su primer apellido: ")
 print(cog)
 print()
